@@ -1,0 +1,21 @@
+{
+	"name": "ready",
+  "author": "Edward Hotchkiss <e@ingk.com>",
+  "description": "Monitor 'ready' state of a newly purchased domain name's DNS to progagate to your ISP/Server",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edwardhotchkiss/ready.git"
+  },
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {
+    "request" : "",
+    "colors":""
+  },
+  "devDependencies" : {
+    "vows" : "",
+    "should" : ""
+  }
+}
